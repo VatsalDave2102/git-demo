@@ -1,4 +1,6 @@
 # Cherry-pick
+git-cherry-pick - Apply the changes introduced by some existing commits
+
 This task has been done in cherry-pick.html and on branch thoughtFix. On main I added a wrong thought and commited, later I checked out in thoughtFix and fixed the thought. Later I added a red container and commited, again I added a blue container and performed commit. To correct the thought in main I cherry picked the commit using it's hash:
 ```
 git checkout main
