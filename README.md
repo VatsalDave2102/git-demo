@@ -22,6 +22,11 @@ git pull
 Here you can see the workflow of merging two branches into **main**
 
 ![Mergin Branches](https://user-images.githubusercontent.com/124878757/219564370-09661f36-4e63-4a82-ba65-11552d6b9c71.png)
+
+Merging with Pull request:
+![Screenshot from 2023-02-17 14-48-07](https://user-images.githubusercontent.com/124878757/219605761-16bc98fb-24b6-4f69-b6f9-212eb7d2099f.png)
+
+![Screenshot from 2023-02-17 14-50-17](https://user-images.githubusercontent.com/124878757/219605796-60d0897d-99ad-4fb7-b4f9-4011eea1e3a4.png)
  
 ## 2.Rebase
 This is performed in **rebase.html**
