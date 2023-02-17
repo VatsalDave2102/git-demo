@@ -32,7 +32,7 @@ After the initial commit we branched **feature3** and commited some code, later 
 git checkout feature3
 git rebase main
 ```
-A merge conflict occured while rebasing that was resolved, the I pushed the main branch.
+A merge conflict occured while rebasing that was resolved, then I pushed the main branch.
 You can see the workflow here: 
 
 ![Screenshot from 2023-02-16 14-30-19](https://user-images.githubusercontent.com/124878757/219579288-524bb129-8eeb-41d5-af71-f778a2f3ade4.jpg)
@@ -52,7 +52,7 @@ git push --force-with-lease origin main
 ```
 This changes the message of commit in remote too
 
-##4.Cherry-pick
+## 4.Cherry-pick
 This task has been done in **cherry-pick.html** and on branch **thoughtFix**.
 On **main** I added a wrong thought and commited, later I checked out in **thoughtFix** and fixed the thought.
 Later I added a red container and commited, again I added a blue container and performed commit.
