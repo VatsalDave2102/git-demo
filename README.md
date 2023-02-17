@@ -1,4 +1,4 @@
-# 5. Drop Commit
+# Drop Commit
 git-reset - Reset current HEAD to the specified state
 
 --soft
