@@ -1,4 +1,6 @@
 # Rebase
+git-rebase - Reapply commits on top of another base tip
+
 This is performed in rebase.html A branch name feature3 was created Screenshot from 2023-02-16 15-56-11 After the initial commit we branched feature3 and commited some code, later I checkout out on main and pulled latest changes then I performed rebase
 ```
 git checkout feature3
